@@ -100,3 +100,14 @@ db.delete(id3);
 db.readAll();
 
 ```
+
+
+#### Experience :briefcase:	
+
+* <a href="https://github.com/Teona-tech/UnilabPythonDevelopment">Unilab Python Development Course (tasks)</a>
+* <a href="https://github.com/Teona-tech/html-and-css-practices">Html and css practices</a>
+* <a href="https://github.com/Teona-tech/personal-project-html-and-css">Personal Html and css project </a>
+* <a href="https://github.com/Teona-tech/Personal-Project-SCSS">Personal-SCSS-Project</a>
+* <a href="https://github.com/Teona-tech/js-practises">Javascript tasks</a>
+* <a href="https://github.com/Teona-tech/JS-personal-project">Javascript personal project</a>
+* <a href="https://github.com/Teona-tech/typescript-personal-project">Typescript pesronal project</a>
