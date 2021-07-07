@@ -111,3 +111,15 @@ db.readAll();
 * <a href="https://github.com/Teona-tech/js-practises">Javascript tasks</a>
 * <a href="https://github.com/Teona-tech/JS-personal-project">Javascript personal project</a>
 * <a href="https://github.com/Teona-tech/typescript-personal-project">Typescript pesronal project</a>
+
+
+
+#### Education :student:	
+
+where? | what?
+ ------------ | -------------
+<a href="http://www.geolab.edu.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/145567197_2583997071890575_6494526563535501235_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=lDD7pKTJQJMAX-LW80Z&_nc_ht=scontent.ftbs5-2.fna&oh=d6d663a7e8c0c17bd6df1d3f226c5148&oe=60E9963F"></a> | c#,Unity
+<a href="https://unilab.iliauni.edu.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/82785721_103798394508081_1561838589170417664_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=yjwZkAHeJIMAX889-x_&_nc_ht=scontent.ftbs5-2.fna&oh=85425bf4e2d94885ac139c72e2448da9&oe=60EA0042"></a> | Python(Flask,NLTK)
+<a href="https://btu.edu.ge/"><img width=50px src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.6435-9/118974653_1185472291837040_8177821905411797845_n.png?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=DcNnWL05KywAX_aNhrK&_nc_ht=scontent.ftbs5-1.fna&oh=b85598ac9a771e5c63942823c447b268&oe=60EB4D38"></a> | IT student - BTU
+<a href="https://www.tbcitacademy.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/90989378_10157016848346188_4281205318840483840_n.png?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=xytbUNIzsYsAX89cFJe&_nc_ht=scontent.ftbs5-2.fna&oh=284af24052aebf662a152f3a1a174944&oe=60EB0570"></a> | Frontend Development
+<a href="https://start.bitcamp.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/122397052_388542505858688_891968229563768666_n.jpg?_nc_cat=109&_nc_rgb565=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=2DE7XMn0_lQAX_UNW2B&tn=3CH5EK3Qe96y3Si2&_nc_ht=scontent.ftbs5-2.fna&oh=93de10ac64c0bc4485fccf936aa46b38&oe=60E9AA8A"></a> | JS basics
